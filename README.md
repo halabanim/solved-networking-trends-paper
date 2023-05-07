@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-networking-trends-paper
+<br>
+<strong>Networking Trends Paper:</strong>  In this paper, you will research and report on network design and management trends over the last three years (present year minus 2) in the areas of virtualization, security, hardware, network management tools, software defined networking, and wireless.   Choose, at least, three areas and explain the general trend and trends within two subsets of the area (i.e., security has subsets of physical, perimeter, monitoring) over the last three years.  Use at least one figure from Google Trends showing a trend discussed in your paper.  Support your information and make sure all information sources are appropriately cited.
+
+The paper must use APA 6th ed., 7th printing formatting and contain a title page, 5 to 7 pages of content,and a minimum of four peer-reviewed references
